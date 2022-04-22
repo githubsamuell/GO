@@ -1,5 +1,4 @@
 package main
-import ("fmt")
 
 type Samuel struct {
 	a int
